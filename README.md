@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohanraj Karatadipalayam
-- 👀 I’m interested in Android, iOS, web, java, quarkus and cloud native development
+- 👀 My interests are in Android, iOS, web, java, micro services, quarkus and cloud native development
 - 🌱 I’m currently learning quarkus
 - 💞️ I’m looking to collaborate on quarkus, android, iOS
 - 📫 How to reach me?
