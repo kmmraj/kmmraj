@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohanraj Karatadipalayam
+- 👋 Hi, I’m Mohanraj Karatadipalayam, Lead Architect, Bengaluru, IN
 - 👀 My interests are in Android, iOS, web, java, micro services, quarkus, service meshes and cloud native development
 - 🌱 I’m currently learning quarkus, services meshes and cloud native development
 - 💞️ I’m looking to collaborate on quarkus,microservices, kubernetes deployments, android, iOS
