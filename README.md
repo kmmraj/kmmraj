@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohanraj Karatadipalayam
 - 👀 My interests are in Android, iOS, web, java, micro services, quarkus and cloud native development
 - 🌱 I’m currently learning quarkus
-- 💞️ I’m looking to collaborate on quarkus, android, iOS
+- 💞️ I’m looking to collaborate on quarkus,microservices, kubernetes deployments, android, iOS
 - 📫 How to reach me?
 -    DM me at @Karats_Here (Twitter) or https://www.linkedin.com/in/kmmraj
 
